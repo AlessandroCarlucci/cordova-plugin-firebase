@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "161407445614",
+    "firebase_url": "https://pushnotification-3d1e5.firebaseio.com",
+    "project_id": "pushnotification-3d1e5",
+    "storage_bucket": "pushnotification-3d1e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161407445614:android:cb905eda63722b81",
+        "android_client_info": {
+          "package_name": "com.mvitalia.magicbeep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161407445614-3revmods6qeb52kh22bu1mfjgsrc8o8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgD5zH88jbrAxJi1NTDfMMgZxDK3Hze6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
